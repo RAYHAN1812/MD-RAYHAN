@@ -1,26 +1,23 @@
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/FbzyxH9j/Gemini-Generated-Image-42p0ri42p0ri42p0.png" alt="Banner Image" />
+  <img src="https://i.ibb.co/FbzyxH9j/Gemini-Generated-Image-42p0ri42p0ri42p0.png" alt="Banner" width="100%" />
 </p>
 
-# Hi 👋, I'm Rayhan
-**Front-End Web Developer | MERN Stack Learner | React.js Enthusiast**
+# Hi, I'm Rayhan
+### Front-End Developer | MERN Stack Learner | Web Application Enthusiast
 
 ---
 
 ## About Me
 I am a web developer passionate about building clean, responsive, and high-performance web applications.  
-Currently, I am exploring advanced React patterns and working on web projects to improve my full-stack skills.  
+Currently:  
+- Exploring advanced React patterns and Next.js  
+- Working on interactive web platforms with real-time functionalities  
+- Learning TypeScript for better maintainable code  
 
 ---
 
-## Current Activities
-- Exploring React.js, Tailwind CSS & Node.js  
-- Building real-world web applications with MongoDB & Firebase  
-- Learning advanced frontend and backend integrations  
-
----
-
-## 🛠 Tech & Tools
+## 🛠️ Tech & Tools
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -31,7 +28,6 @@ Currently, I am exploring advanced React patterns and working on web projects to
   <img alt="Express" src="https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-%2347A248.svg?style=for-the-badge&logo=socket.io&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-%23006137.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=microsoft-powerbi&logoColor=black" />
@@ -39,36 +35,52 @@ Currently, I am exploring advanced React patterns and working on web projects to
 
 ---
 
-## 🔗 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/md-rayhan-96212b1b7/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:md.rayhan.cse@ulab.edu.bd">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/RAYHAN1812" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+## 🔹 Pinned Projects
+### 1️⃣ [The Book Haven](https://thunderous-speculoos-85e594.netlify.app)
+A platform for book enthusiasts to explore, share, and manage books with secure Firebase Authentication and real-time comments via Socket.io.
+
+**Tech Stack:** React, Tailwind, Firebase, Node.js, Express, MongoDB, Socket.io  
+**Main Features:** Full CRUD for books, Real-time commenting, Ratings, Responsive UI  
+**Dependencies:** Axios, DaisyUI  
+**Run Locally:** `git clone <repo-url> && npm install && npm start`  
+
+### 2️⃣ [Local Kids Toy Store](https://guileless-twilight-c168e0.netlify.app/)
+An online marketplace connecting families with local toy sellers, featuring Firebase authentication and interactive forms.
+
+**Tech Stack:** React, Tailwind, Firebase, React Router, DaisyUI, Swiper  
+**Main Features:** Toy listing, Protected routes, Popular slider, Ratings system  
+**Dependencies:** react-icons, react-toastify  
+**Run Locally:** `git clone <repo-url> && npm install && npm start`  
+
+### 3️⃣ [Plannnnt](https://plannnnt.netlify.app/)
+A task management web app to help users organize their day efficiently with a clean and responsive UI.
+
+**Tech Stack:** React, Tailwind, Firebase  
+**Main Features:** Task creation, update, deletion, Categorized task lists, Responsive design  
+**Dependencies:** React, Tailwind, Firebase  
+**Run Locally:** `git clone https://github.com/RAYHAN1812/Plannnnt.git && npm install && npm start`  
+**Live Demo:** [Plannnnt](https://plannnnt.netlify.app/)  
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RAYHAN1812&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYHAN1812&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📌 Pinned Projects
+## 📊 GitHub Contributions
+<p align="center">
+  <img src="https://ghchart.rshah.org/RAYHAN1812" alt="GitHub Contributions Chart" />
+</p>
 
-### 1️⃣ The Book Haven
-**Overview:** A platform for book lovers to explore, manage, and review books in real-time.  
-**Main Tech:** React.js, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB, Socket.io  
-**Main Features:**  
-- User Authentication (Sign up/Login)  
-- Full CRUD book management  
-- Real-time comments & ratings system  
-- Responsive design & image uploads  
+---
 
-**Dependencies:** React, Axios, DaisyUI, Firebase, Socket.io, Express, MongoDB  
-**Local Run Guide:**  
-```bash
-git clone https://github.com/RAYHAN1812/the-book-haven.git
-cd the-book-haven
-npm install
-npm start
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-rayhan-96212b1b7/" target="_blank">LinkedIn</a> |  
+  <a href="mailto:md.rayhan.cse@ulab.edu.bd">Email</a> |  
+  <a href="https://github.com/RAYHAN1812" target="_blank">GitHub</a>
+</p>
