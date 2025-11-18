@@ -110,3 +110,18 @@ An online marketplace for kids’ toys connecting families with local sellers. U
 ---
 
 I believe in **learning by building projects**, exploring new technologies, and continuously improving my skills to deliver impactful web applications.
+
+
+## Featured Projects
+
+<p align="center">
+  <!-- The Book Haven Card -->
+  <a href="https://thunderous-speculoos-85e594.netlify.app" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/The_Book_Haven-View%20Live-blue?style=for-the-badge" alt="The Book Haven" />
+  </a>
+
+  <!-- Local Kids Toy Store Card -->
+  <a href="https://guileless-twilight-c168e0.netlify.app/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Local_Kids_Toy_Store-View%20Live-green?style=for-the-badge" alt="Local Kids Toy Store" />
+  </a>
+</p>
