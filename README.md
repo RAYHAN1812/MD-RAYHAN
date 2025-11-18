@@ -1,12 +1,10 @@
-![Banner](https://i.ibb.co/svqNmWhM/Gemini-Generated-Image-42p0ri42p0ri42p0.png)
+![Banner](https://i.ibb.co/FbzyxH9j/Gemini-Generated-Image-42p0ri42p0ri42p0.png)
 
-# Hi, I'm Rayhan
+# Hi, I'm Rayhan 👋
+**Front-End Web Developer | MERN Stack Learner | Clean Code Enthusiast**
 
-<p align="center">
-  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&pause=2000&color=0A66C2&center=true&vCenter=true&width=700&lines=Aspiring+Web+Developer;Front-End+Specialist;MERN+Stack+Learner;Passionate+About+Clean+Code" />
-</p>
-
-I am a web developer with a passion for building clean, responsive, and high-performance web applications. I focus on creating projects that provide great user experiences and scalable backend solutions.
+I am a web developer passionate about building clean, responsive, and high-performance web applications. I focus on projects that provide great user experiences and scalable backend solutions.  
+Currently exploring **React.js, Tailwind CSS, Firebase**, and **real-time web applications**.
 
 ---
 
@@ -30,10 +28,12 @@ I am a web developer with a passion for building clean, responsive, and high-per
 
 ---
 
-## Projects
+## ✨ Projects
 
-### 1️⃣ The Book Haven
+### 1️⃣ The Book Haven 📚
 A platform for book enthusiasts to explore, share, and manage books. Users can add books, leave comments, and browse categories. Authentication is secure via Firebase, and comments are real-time with Socket.io.
+
+![The Book Haven Screenshot](https://i.ibb.co/your-screenshot.png)
 
 **Features:**
 - User Authentication (Sign up/Login)
@@ -49,8 +49,10 @@ A platform for book enthusiasts to explore, share, and manage books. Users can a
 
 ---
 
-### 2️⃣ Local Kids Toy Store Platform
+### 2️⃣ Local Kids Toy Store Platform 🧸
 An online marketplace for kids’ toys connecting families with local sellers. Users can browse toys, view details, and contact sellers securely.
+
+![Local Kids Toy Store Screenshot](https://i.ibb.co/your-screenshot.png)
 
 **Features:**
 - Responsive UI with React & Tailwind CSS
@@ -66,7 +68,23 @@ An online marketplace for kids’ toys connecting families with local sellers. U
 
 ---
 
-## GitHub Stats
+### 3️⃣ Your Third Project 🚀
+A short description of your third project goes here. Include main features, tech stack, and a screenshot.
+
+![Third Project Screenshot](https://i.ibb.co/your-screenshot.png)
+
+**Features:**
+- Feature 1
+- Feature 2
+- Feature 3
+
+**Tech Stack:** List main technologies  
+
+**Live Demo:** [Project Link](#)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=RAYHAN1812&show_icons=true&theme=tokyonight" />
@@ -75,7 +93,7 @@ An online marketplace for kids’ toys connecting families with local sellers. U
 
 ---
 
-## GitHub Contributions
+## 📊 GitHub Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RAYHAN1812&theme=react-dark&area=true" alt="GitHub Contributions Graph" />
@@ -83,20 +101,15 @@ An online marketplace for kids’ toys connecting families with local sellers. U
 
 ---
 
-## Streak Stats
-Tracking my consistency in coding and contributions over time.
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAYHAN1812&theme=dark" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
-## Currently Learning
-- Advanced React patterns, Redux, and React Query  
-- TypeScript & Next.js  
-- Real-time applications with Socket.io  
-- Writing clean, maintainable, and scalable code  
-
----
-
-## Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/md-rayhan-96212b1b7/" target="_blank">
@@ -110,6 +123,7 @@ Tracking my consistency in coding and contributions over time.
   </a>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RAYHAN1812" alt="visitor-badge"/>
-</p>
+---
+
+### ⚡ Fun Fact
+I believe in **learning by building projects**, exploring new technologies, and continuously improving my skills to deliver impactful web applications.
