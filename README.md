@@ -1,15 +1,26 @@
-![Banner](https://i.ibb.co/FbzyxH9j/Gemini-Generated-Image-42p0ri42p0ri42p0.png)
+<p align="center">
+  <img src="https://i.ibb.co/FbzyxH9j/Gemini-Generated-Image-42p0ri42p0ri42p0.png" alt="Banner Image" />
+</p>
 
-# Hi, I'm Rayhan 👋
-**Front-End Web Developer | MERN Stack Learner | Clean Code Enthusiast**
-
-I am a web developer passionate about building clean, responsive, and high-performance web applications. I focus on projects that provide great user experiences and scalable backend solutions.  
-Currently exploring **React.js, Tailwind CSS, Firebase**, and **real-time web applications**.
+# Hi 👋, I'm Rayhan
+**Front-End Web Developer | MERN Stack Learner | React.js Enthusiast**
 
 ---
 
-## 🛠️ Tech & Tools
+## About Me
+I am a web developer passionate about building clean, responsive, and high-performance web applications.  
+Currently, I am exploring advanced React patterns and working on web projects to improve my full-stack skills.  
 
+---
+
+## Current Activities
+- Exploring React.js, Tailwind CSS & Node.js  
+- Building real-world web applications with MongoDB & Firebase  
+- Learning advanced frontend and backend integrations  
+
+---
+
+## 🛠 Tech & Tools
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -28,89 +39,7 @@ Currently exploring **React.js, Tailwind CSS, Firebase**, and **real-time web ap
 
 ---
 
-## ✨ Projects
-
-### 1️⃣ The Book Haven 📚
-A platform for book enthusiasts to explore, share, and manage books. Users can add books, leave comments, and browse categories. Authentication is secure via Firebase, and comments are real-time with Socket.io.
-
-![The Book Haven Screenshot](https://i.ibb.co/your-screenshot.png)
-
-**Features:**
-- User Authentication (Sign up/Login)
-- Full CRUD Book Management
-- Real-Time Comments
-- Ratings System (1–5 stars)
-- Responsive Design
-- Image Uploads
-
-**Tech Stack:** React.js, Tailwind CSS, DaisyUI, Firebase, Node.js, Express.js, MongoDB, Socket.io, Axios  
-
-**Live Demo:** [The Book Haven](https://thunderous-speculoos-85e594.netlify.app)
-
----
-
-### 2️⃣ Local Kids Toy Store Platform 🧸
-An online marketplace for kids’ toys connecting families with local sellers. Users can browse toys, view details, and contact sellers securely.
-
-![Local Kids Toy Store Screenshot](https://i.ibb.co/your-screenshot.png)
-
-**Features:**
-- Responsive UI with React & Tailwind CSS
-- Firebase Authentication (Email & Google Sign-in)
-- Password Reset & Protected Routes
-- Toy Details with Seller Info & Ratings
-- Popular Toys Slider & Interactive Forms
-- Toast Notifications
-
-**Tech Stack:** React.js, Tailwind CSS, Firebase, react-router-dom, react-icons, react-toastify, DaisyUI, Swiper  
-
-**Live Demo:** [Local Kids Toy Store](https://guileless-twilight-c168e0.netlify.app/)
-
----
-
-### 3️⃣ Your Third Project 🚀
-A short description of your third project goes here. Include main features, tech stack, and a screenshot.
-
-![Third Project Screenshot](https://i.ibb.co/your-screenshot.png)
-
-**Features:**
-- Feature 1
-- Feature 2
-- Feature 3
-
-**Tech Stack:** List main technologies  
-
-**Live Demo:** [Project Link](#)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RAYHAN1812&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYHAN1812&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📊 GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RAYHAN1812&theme=react-dark&area=true" alt="GitHub Contributions Graph" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAYHAN1812&theme=dark" alt="GitHub Streak Stats" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
+## 🔗 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/md-rayhan-96212b1b7/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -125,5 +54,21 @@ A short description of your third project goes here. Include main features, tech
 
 ---
 
-### ⚡ Fun Fact
-I believe in **learning by building projects**, exploring new technologies, and continuously improving my skills to deliver impactful web applications.
+## 📌 Pinned Projects
+
+### 1️⃣ The Book Haven
+**Overview:** A platform for book lovers to explore, manage, and review books in real-time.  
+**Main Tech:** React.js, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB, Socket.io  
+**Main Features:**  
+- User Authentication (Sign up/Login)  
+- Full CRUD book management  
+- Real-time comments & ratings system  
+- Responsive design & image uploads  
+
+**Dependencies:** React, Axios, DaisyUI, Firebase, Socket.io, Express, MongoDB  
+**Local Run Guide:**  
+```bash
+git clone https://github.com/RAYHAN1812/the-book-haven.git
+cd the-book-haven
+npm install
+npm start
