@@ -35,7 +35,7 @@ Currently:
 
 ---
 
-## 🔹 Pinned Projects
+## 🔹 My Recent  Projects
 ### 1️⃣ [The Book Haven](https://thunderous-speculoos-85e594.netlify.app)
 A platform for book enthusiasts to explore, share, and manage books with secure Firebase Authentication and real-time comments via Socket.io.
 
