@@ -52,7 +52,7 @@ An online marketplace connecting families with local toy sellers, featuring Fire
 **Dependencies:** react-icons, react-toastify  
 **Run Locally:** `git clone <repo-url> && npm install && npm start`  
 
-### 3️⃣ [Plannnnt](https://plannnnt.netlify.app/)
+### 3️⃣ [Plant](https://plannnnt.netlify.app/)
 A task management web app to help users organize their day efficiently with a clean and responsive UI.
 
 **Tech Stack:** React, Tailwind, Firebase  
